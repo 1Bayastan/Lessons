@@ -41,6 +41,3 @@
 #     else:
 #         print('нет')
     
-with open('text.txt','r') as file:
-    a = file.read()
-print(a)

@@ -17,9 +17,8 @@
 #     print(n)
 # b = 5
 # c = 2 + b
-# print(c)
 
-
+print('привет')
 
 
 
